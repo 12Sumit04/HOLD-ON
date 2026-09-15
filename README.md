@@ -106,7 +106,7 @@ The user can also manually interrupt the assistant using the microphone button.
 
 Features
 
-🎙 Voice-First Interaction
+ Voice-First Interaction
 
 
 
@@ -114,7 +114,7 @@ Users interact primarily through speech rather than typing.
 
 
 
-⚡ Interruptible Conversations
+ Interruptible Conversations
 
 
 
@@ -126,7 +126,7 @@ The assistant stops playback and listens for the user's next request.
 
 
 
-🧠 Context-Aware Conversation
+Context-Aware Conversation
 
 
 
@@ -134,7 +134,7 @@ Recent conversation messages are stored and sent to the AI model so that follow-
 
 
 
-🔊 AI Voice Responses
+ AI Voice Responses
 
 
 
@@ -142,7 +142,7 @@ HOLD ON converts AI responses into speech using the Rime Text-to-Speech API.
 
 
 
-🗣 Automatic Turn-Taking
+ Automatic Turn-Taking
 
 
 
